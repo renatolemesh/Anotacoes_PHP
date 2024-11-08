@@ -1,0 +1,1 @@
+O composer é o gerenciador de pacotes do projeto, ele é compativel com diversas bibliotecas, para iniciar um composer vamos até o caminho do projeto e damos composer init
